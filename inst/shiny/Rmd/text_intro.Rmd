@@ -4,6 +4,7 @@ output: html_document
 ---
 
 ### **What is *Wallace*?**  
+### ** *Wallace*는?**
 
 Welcome to *Wallace*, a flexible application for reproducible ecological modeling, built for community expansion. The current version of *Wallace* (v1.0.6.1) steps the user through a full niche/distribution modeling analysis, from data acquisition to visualizing results.
 
