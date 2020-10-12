@@ -4,6 +4,10 @@
 
 *Wallace* is a modular platform for reproducible modeling of species niches and distributions, written in R. The application guides users through a complete analysis, from the acquisition of data to visualizing model predictions on an interactive map, thus bundling complex workflows into a single, streamlined interface.
 
+*Wallace*는 R 언어로 작성되었습니다. *Wallace*는 생물 종의 니체와 분포를 반복적으로 모델링하기 위한 모듈형식의 플랫폼입니다. The application guides users through a complete analysis, from the acquisition of data to visualizing model predictions on an interactive map, thus bundling complex workflows into a single, streamlined interface.
+
+
+
 Install *Wallace* via CRAN and run the application with the following R code.
 
 ```R
