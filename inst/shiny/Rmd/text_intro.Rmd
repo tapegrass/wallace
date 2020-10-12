@@ -3,11 +3,19 @@ title: "intro"
 output: html_document
 ---
 
+### 한글 테스트 ###
+
 ### **What is *Wallace*?**  
+### ** *Wallace*는?**  
 
 Welcome to *Wallace*, a flexible application for reproducible ecological modeling, built for community expansion. The current version of *Wallace* (v1.9.9*) steps the user through a full niche/distribution modeling analysis, from data acquisition to visualizing results.
 
+ *Wallace*는 재현가능한 생태 모델링 방법의 사용을 확대하기 위해 만들어진 다양한 목적으로 확장 가능한 응용프로그램입니다.  *Wallace*의 최신 버전 (v1.9.9*)는 데이터 수집에서부터 결과의 시각화까지의 전반적인 니체/분포 모델링 과정을 안내합니다. 
+
 The application is written in `R` with the web app development package `shiny`. Please find the stable version of *Wallace* on <a href="https://CRAN.R-project.org/package=wallace" target="_blank">CRAN</a>, and the development version on <a href="https://github.com/wallaceEcoMod/wallace" target="_blank">Github</a>. We also maintain a *Wallace* <a href="https://wallaceecomod.github.io/" target="_blank">website</a> that has some basic info, links, and will be updated with tutorial materials in the near future.
+
+이 프로그램은 웹 어플리케이션 개발 패키지인 `shiny`와 `R` 언어로 작성되었습니다. *Wallace*의 안정적인 버전은 <a href="https://CRAN.R-project.org/package=wallace" target="_blank">CRAN</a>에서, 개발 버전은 <a href="https://github.com/wallaceEcoMod/wallace" target="_blank">Github</a>에서 확인할 수 있습니다. *Wallace*에 대한 기본적인 정보와 유용한 링크, 연습예제 (업데이트 예정)은 <a href="https://wallaceecomod.github.io/" target="_blank">website</a>에서 확인할 수 있습니다. 
+
 
 *Wallace* is designed to facilitate spatial biodiversity research, and currently concentrates on modeling species niches and distributions using occurrence datasets and environmental predictor variables. These models provide an estimate of the species' response to environmental conditions, and can be used to generate maps that indicate suitable areas for the species (i.e. its potential geographic distribution; Guisan & Thuiller 2005; Elith & Leathwick 2009; Franklin 2010a; Peterson et al. 2011). This research area has grown tremendously over the past two decades, with applications to pressing environmental issues such as conservation biology (Franklin 2010b), invasive species (Ficetola et al. 2007), zoonotic diseases (González et al. 2010), and climate-change impacts (Kearney et al. 2010).
 
